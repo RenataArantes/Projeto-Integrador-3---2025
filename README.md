@@ -4,6 +4,8 @@
 
 [Turma 2 2] (https://github.com/pedropelaes/PI3-Turma2-2)
 
+[Turma 2 3] (https://github.com/Caiua7/PI3-Turma2_3)
+
 [Turma 2 5] (https://github.com/Eric-Rodrigues-Abib/PI3-Turma2-5)
 
 [Turma 2 6] (https://github.com/FilipeeeRS/PI3-turma2-6)
