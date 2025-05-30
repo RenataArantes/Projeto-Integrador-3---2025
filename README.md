@@ -2,3 +2,5 @@
 
 [Turma 2 5] (https://github.com/Eric-Rodrigues-Abib/PI3-Turma2-5)
 
+[Turma 2 6] (https://github.com/FilipeeeRS/PI3-turma2-6)
+
