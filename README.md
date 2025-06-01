@@ -10,6 +10,8 @@
 
 [Turma 2 6] (https://github.com/FilipeeeRS/PI3-turma2-6)
 
+[Turma 3 2] (https://github.com/JoaoGiatti/PI3-Turma3-2)
+
 [Turma 3 3] (https://github.com/Codenamedarkray/PI3-Turma3-3)
 
 [Turma 3 5 ] (https://github.com/JheniferLais/PI3-Turma3-5)
