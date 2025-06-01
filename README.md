@@ -6,7 +6,7 @@
 
 [Turma 2 3] (https://github.com/Caiua7/PI3-Turma2_3)
 
-[Turma 2 4]
+[Turma 2 4] (https://github.com/Campos29/PI3-Turma2-4)
 
 [Turma 2 5] (https://github.com/Eric-Rodrigues-Abib/PI3-Turma2-5)
 
