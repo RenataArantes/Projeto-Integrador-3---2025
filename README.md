@@ -14,7 +14,7 @@
 
 [Turma 2 7]
 
-[Turma 3 1]
+[Turma 3 1] (https://github.com/vitormanzano/PI3-Turma3-1)
 
 [Turma 3 2] (https://github.com/JoaoGiatti/PI3-Turma3-2)
 
