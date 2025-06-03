@@ -38,7 +38,7 @@
 
 [Turma 5 3]
 
-[Turma 5 6]
+[Turma 5 6] (https://github.com/Furlanets/PI3-Turma5-6)
 
 [Turma 5 7]
 
