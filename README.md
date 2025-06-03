@@ -24,7 +24,7 @@
 
 [Turma 3 5 ] (https://github.com/JheniferLais/PI3-Turma3-5)
 
-[Turma 3 6]
+[Turma 3 6] (https://github.com/gustavo-zorzo/PI3-Turma3-6)
 
 [Turma 4 1]  (https://github.com/Mansurz1n/PI-3-Turma4-1)
 
