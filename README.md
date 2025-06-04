@@ -28,7 +28,7 @@
 
 [Turma 4 1]  (https://github.com/Mansurz1n/PI-3-Turma4-1)
 
-[Turma 4 2]
+[Turma 4 2] (https://github.com/Sohra01/PI_III_Grupo2Turma4)
 
 [Turma 4 3] (https://github.com/Luis-Silvah/PI3-Turma4-3)
 
