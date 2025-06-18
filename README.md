@@ -40,6 +40,6 @@
 
 [Turma 5 6] (https://github.com/Furlanets/PI3-Turma5-6)
 
-[Turma 5 7] (https://github.com/Enck3/PI3-Turma5-7/network/dependencies)
+[Turma 5 7]
 
 
